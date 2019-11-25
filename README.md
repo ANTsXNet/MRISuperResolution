@@ -73,4 +73,6 @@ Total elapsed time:  64.18981695175171 seconds
 
 ## Sample results
 
+original/bspline cubic interpolation/super-resolution
+
 ![Brain super resolution results](Documentation/Images/resultsSuperResolution.png)
